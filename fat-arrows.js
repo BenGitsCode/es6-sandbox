@@ -50,7 +50,7 @@ let person = {
 // The first this refers to Person.hobbies but the second this (this.name) the binding has changed.
 // By using a fat arrow instead, this.name's lexical scope changes to the arrow function, making it Person.name
 
-this.hobbies.forEach => (hobby) {
+// this.hobbies.forEach => (hobby) {
 
 
 
