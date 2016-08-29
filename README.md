@@ -15,11 +15,13 @@ TODO: Put badges here.
 ## Install
 
 ```
+None necessary
 ```
 
 ## Usage
 
 ```
+Reference for es6 feature examples.
 ```
 
 ## Contribute
